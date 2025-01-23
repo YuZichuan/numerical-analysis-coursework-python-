@@ -1,6 +1,6 @@
 This coursework is mainly about solving differential equations by numerical methods. 
 
-There are a total of five sections in this corsework. 
+There are a total of four sections in this corsework. 
 
 The first section is Petrov–Galerkin FEM for first-order differential equation (question 0-2). 
 
